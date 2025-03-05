@@ -1,0 +1,28 @@
+=====================================
+         ABC BANK - INTERÉS COMPUESTO
+=====================================
+
+Cálculo del interés compuesto en una cuenta de ahorros:
+
+Fórmula:
+A = P (1 + r/n)^(nt)
+
+Donde:
+A = Monto final después del interés
+P = Capital inicial
+r = Tasa de interés anual (en decimal)
+n = Número de veces que se capitaliza por año
+t = Número de años
+
+Ejemplo:
+Si un cliente deposita $1,000 en una cuenta de ahorros con una tasa de interés anual del 5% que se capitaliza mensualmente, después de 3 años el monto final será:
+
+P = 1000, r = 0.05, n = 12, t = 3
+
+A = 1000 (1 + 0.05/12)^(12*3)
+A ≈ 1161.62 USD
+
+=====================================
+Para consultas, llame al: +1-800-ABC-BANK
+=====================================
+

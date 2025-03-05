@@ -1,0 +1,46 @@
+=====================================
+         ABC BANK - REMITTANCE RECEIPT
+=====================================
+
+Sender: Carlos Rodríguez
+Remitente: Carlos Rodríguez
+發送者: Carlos Rodríguez
+
+Sender Account: 9876-5432-1098
+Cuenta de remitente: 9876-5432-1098
+發送帳戶: 9876-5432-1098
+
+Recipient: Li Wei
+Beneficiario: Li Wei
+收款人: Li Wei
+
+Recipient Account: 4567-8910-2345
+Cuenta del beneficiario: 4567-8910-2345
+收款帳戶: 4567-8910-2345
+
+Transfer Amount: $2,000.00 USD
+Monto de transferencia: $2,000.00 USD
+轉帳金額: $2,000.00 USD
+
+Exchange Rate: 1 USD = 7.15 CNY
+Tipo de cambio: 1 USD = 7.15 CNY
+匯率: 1 USD = 7.15 CNY
+
+Total Amount Received: ¥14,300.00 CNY
+Monto total recibido: ¥14,300.00 CNY
+總共收到金額: ¥14,300.00 CNY
+
+Transaction Date: 02 Mar 2025
+Fecha de transacción: 02 Marzo 2025
+交易日期: 2025年03月02日
+
+Transaction ID: TRX-6543217890
+ID de transacción: TRX-6543217890
+交易編號: TRX-6543217890
+
+=====================================
+For inquiries, call: +1-800-ABC-BANK
+Para consultas, llame al: +1-800-ABC-BANK
+如有疑問，請致電: +1-800-ABC-BANK
+=====================================
+

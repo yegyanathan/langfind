@@ -1,0 +1,26 @@
+=====================================
+         ABC BANK - RECIBO DE REMESA
+=====================================
+
+Remitente: Carlos Rodríguez
+
+Cuenta del remitente: 9876-5432-1098
+
+Beneficiario: Li Wei
+
+Cuenta del beneficiario: 4567-8910-2345
+
+Monto de transferencia: $2,000.00 USD
+
+Tipo de cambio: 1 USD = 7.15 CNY
+
+Monto total recibido: ¥14,300.00 CNY
+
+Fecha de transacción: 02 Marzo 2025
+
+ID de transacción: TRX-6543217890
+
+=====================================
+Para consultas, llame al: +1-800-ABC-BANK
+=====================================
+

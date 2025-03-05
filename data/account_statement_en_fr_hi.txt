@@ -1,0 +1,50 @@
+=====================================
+      XYZ BANK - ACCOUNT STATEMENT
+=====================================
+
+Account Holder: John Doe
+Titulaire du compte: John Doe
+लेखाकारी: जॉन डो
+
+Account Number: 1234-5678-9012
+Numéro de compte: 1234-5678-9012
+खाता संख्या: 1234-5678-9012
+
+Statement Period: 01 Feb 2025 - 28 Feb 2025
+Période de relevé: 01 Février 2025 - 28 Février 2025
+विवरण काल: 01 फरवरी 2025 - 28 फरवरी 2025
+
+-------------------------------------
+Date          Description            Amount
+-------------------------------------
+01/02/2025    Salary Credit         +$3,000.00
+Salaire crédité                   +$3,000.00
+वेतन जारी                       +$3,000.00
+
+05/02/2025    ATM Withdrawal       -$500.00
+Retrait ATM                        -$500.00
+ATM माध्यम                            -$500.00
+
+12/02/2025    Grocery Store        -$120.75
+Magasin d'épicerie                 -$120.75
+किराना की दुकान                      -$120.75
+
+20/02/2025    Online Purchase      -$45.99
+Achat en ligne                      -$45.99
+ऑनलाइन खरीद                     -$45.99
+
+27/02/2025    Interest Credit      +$10.50
+Crédit d'intérêt                   +$10.50
+सुध जोड़ा                      +$10.50
+
+-------------------------------------
+Closing Balance: $2,344.76
+Solde de clôture: $2,344.76
+अंतिम शेष राशि: $2,344.76
+
+=====================================
+For inquiries, call: +1-800-XYZ-BANK
+Pour toute question, appelez: +1-800-XYZ-BANK
+किसी भी प्रश्न के लिए: +1-800-XYZ-BANK
+=====================================
+

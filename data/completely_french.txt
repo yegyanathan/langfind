@@ -1,0 +1,42 @@
+=====================================
+           ACCORD BANCAIRE FRANÇAIS
+=====================================
+
+Type de document: Accord de transaction bancaire multilingue
+
+CLIENT:
+-------------------------------------
+Nom: Jean Dupont
+Adresse: 45 Rue de Rivoli, 75001 Paris, France
+Numéro de compte: FR76 3000 6000 0112 3456 7890 189
+
+BANQUE:
+-------------------------------------
+Nom de la banque: BNP Paribas
+SWIFT: BNPAGFRPPXXX
+IBAN: FR76 3000 6000 0112 3456 7890 189
+
+DÉTAILS DE LA TRANSACTION:
+-------------------------------------
+Montant: €5,000,000.00
+Devise: EUR
+Date de valeur: 06 mars 2025
+Référence de transaction: TXN-FR-2025-654321
+Objet du paiement: Paiement d'investissement en obligations d'État
+
+INSTRUCTIONS SPÉCIALES:
+-------------------------------------
+1. La transaction doit être validée conformément à la réglementation de la Banque de France et de l'Autorité des Marchés Financiers (AMF).
+2. Les fonds sont bloqués jusqu'à réception de la confirmation de transfert par le bénéficiaire.
+3. Toute anomalie détectée entraînera une enquête automatique par la cellule anti-fraude.
+
+APPROBATION:
+-------------------------------------
+Signataire autorisé: Paul Martin (Directeur des Opérations, BNP Paribas)
+Date: 05 mars 2025
+Statut de la transaction: EN ATTENTE DE VÉRIFICATION
+
+=====================================
+REMARQUE: Ce document est soumis aux réglementations bancaires internationales.
+=====================================
+

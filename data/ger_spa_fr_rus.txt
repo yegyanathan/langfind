@@ -1,0 +1,53 @@
+=====================================
+           EU BANKING AGREEMENT
+=====================================
+
+Dokumenttyp: Multilinguale Banktransaktionsvereinbarung  
+Tipo de documento: Acuerdo bancario multilingüe  
+Type de document : Accord bancaire multilingue  
+Тип документа: Многоязычное банковское соглашение  
+
+Kunde / Cliente / Client / Клиент: 
+-------------------------------------
+Name: Johann Müller (Germany)  
+Nom: Jean Dupont (France)  
+Nombre: Carlos Fernández (Spain)  
+Имя: Иван Петров (Russia)  
+
+Kontodaten / Datos de cuenta / Données du compte / Данные счета:
+-------------------------------------
+Bankname / Nombre del banco / Nom de la banque / Название банка: 
+Deutsche Bank AG / Banco Santander / BNP Paribas / Сбербанк
+
+SWIFT-Code: DEUTDEFFXXX / BSCHESMMXXX / BNPAGFRPPXXX / SABRRUMMXXX
+
+IBAN: DE89 3704 0044 0532 0130 00 / ES91 2100 0418 4502 0005 1332 / FR76 3000 6000 0112 3456 7890 189 / RU21 044525225 12345678901234
+
+Transaktionsdetails / Detalles de la transacción / Détails de la transaction / Детали транзакции:
+-------------------------------------
+Betrag / Cantidad / Montant / Сумма: €10,000,000.00  
+Währung / Moneda / Devise / Валюта: EUR  
+Transaktionsreferenz / Referencia de transacción / Référence de transaction / Номер транзакции: TXN-EU-2025-987654
+
+Spezielle Bedingungen / Condiciones especiales / Conditions spéciales / Специальные условия:
+-------------------------------------
+1. Diese Transaktion unterliegt den Bestimmungen der Europäischen Zentralbank (EZB).  
+   Esta transacción está sujeta a la normativa del Banco Central Europeo (BCE).  
+   Cette transaction est soumise à la réglementation de la Banque centrale européenne (BCE).  
+   Эта транзакция подчиняется нормативам Европейского центрального банка (ЕЦБ).  
+
+2. Multinationale Überprüfung durch SWIFT und regulatorische Behörden erforderlich.  
+   Revisión multinacional requerida por SWIFT y autoridades regulatorias.  
+   Vérification multinationale requise par SWIFT et les autorités réglementaires.  
+   Многонациональная проверка требуется SWIFT и регулирующими органами.  
+
+Genehmigung / Aprobación / Approbation / Одобрение:
+-------------------------------------
+Unterschrift / Firma / Signature / Подпись: 
+Johann Müller (Deutsche Bank) / Carlos Fernández (Banco Santander) / Jean Dupont (BNP Paribas) / Иван Петров (Сбербанк)
+
+Datum / Fecha / Date / Дата: 05 März 2025 / 05 marzo 2025 / 05 mars 2025 / 05 марта 2025
+
+=====================================
+Hinweis / Aviso / Remarque / Примечание: Dieses Dokument unterliegt internationalen Bankvorschriften.
+=====================================
